@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ModuleMain/MainScene.unity
+    guid: 8f217b9efb1b7d14886cb411e8e5581d
+  - enabled: 1
+    path: Assets/ModuleColoring/ColoringScene.unity
+    guid: f09dbde4276bdc2488e98915736d9cbc
+  - enabled: 1
+    path: Assets/ModuleDrawing/DrawingScene.unity
+    guid: 8af86102ffb09604097ad6a4c0610be0
+  - enabled: 1
+    path: Assets/ModuleMath/MathScene.unity
+    guid: 6921a0c73c809164585fb2ba31912df0
+  - enabled: 1
+    path: Assets/ModuleMemory/MemoryScene.unity
+    guid: 856919782cf5a464bb2baae0987c6013
+  - enabled: 1
+    path: Assets/ModuleNumbers/NumbersScene.unity
+    guid: 52c8f902570fbff4cab4f6ae7fbc3719
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/ModuleKeyboard/KeyboardScene.unity
+    guid: d471bed96ef679146bbc284492ee8f1c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
